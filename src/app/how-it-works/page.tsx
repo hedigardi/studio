@@ -6,7 +6,7 @@ export default function HowItWorksPage() {
   return (
     <div className="max-w-4xl mx-auto space-y-12 py-8">
       <section className="text-center">
-        <h1 className="text-4xl font-bold font-headline text-primary mb-4">Så Funkar HemmaTorg</h1>
+        <h1 className="text-4xl font-bold font-headline text-primary mb-4">Så Funkar HemmaTorg!</h1>
         <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
           HemmaTorg är din plattform för att köpa och sälja hemlagad mat. Enkelt, tryggt och gott!
         </p>
